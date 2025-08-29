@@ -1,9 +1,9 @@
 # vApp Submission: PixelQuest
 
 ## Verification
-- **github_username**: "nirzha"  
+- **github_username**: "Nirzha168"  
 - **discord_id**: "687640279779377156"  
-- **timestamp**: "2025-01-15"  
+- **timestamp**: "2025-08-29"  
 
 ## Developer
 - **Name**: Rahardian Dev  
